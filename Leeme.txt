@@ -1,0 +1,16 @@
+########
+Herramienta de gestión de redes inalámbricas en entornor GNU/Linux
+########
+
+########
+Modo de uso:
+########
+
+Ejecutar "Conector21.sh" como módulo principal. Serán necesarios privilegios de administrador o root.
+
+Ejemplo:
+
+sudo ./Conector21.sh wlan0
+
+
+
